@@ -1,0 +1,11 @@
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\bin\Debug\netcoreapp2.1\Proyecto13.deps.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\bin\Debug\netcoreapp2.1\Proyecto13.runtimeconfig.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\bin\Debug\netcoreapp2.1\Proyecto13.runtimeconfig.dev.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\bin\Debug\netcoreapp2.1\Proyecto13.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\bin\Debug\netcoreapp2.1\Proyecto13.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\obj\Debug\netcoreapp2.1\Proyecto13.csprojAssemblyReference.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\obj\Debug\netcoreapp2.1\Proyecto13.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\obj\Debug\netcoreapp2.1\Proyecto13.AssemblyInfoInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\obj\Debug\netcoreapp2.1\Proyecto13.AssemblyInfo.cs
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\obj\Debug\netcoreapp2.1\Proyecto13.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto13\Proyecto13\obj\Debug\netcoreapp2.1\Proyecto13.pdb
